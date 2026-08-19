@@ -211,5 +211,4 @@ plt.show()
 Thus, image segmentation was successfully performed using **Global Thresholding, Adaptive Mean Thresholding, Adaptive Gaussian Thresholding, and Otsu's Thresholding** techniques using Python and OpenCV.
 
 The segmented images were successfully generated, displayed, and compared.
-``` 
-````
+
